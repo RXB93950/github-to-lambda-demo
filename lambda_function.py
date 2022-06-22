@@ -1,5 +1,1 @@
-print('\nstarting\n\n\n\n')
-print("the code is pushing to repo")
-print("....\n....\n....\n....\n....\n....\n")
-print('\nalmost there\n\n')
-print("code is pushed to repo sucessfully")
+print('lambda is connected !!!')

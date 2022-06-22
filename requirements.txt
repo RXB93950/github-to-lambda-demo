@@ -1,1 +1,2 @@
-pandas==1.2.1
+pandas==1.2.1,
+Numpy==1.22.4

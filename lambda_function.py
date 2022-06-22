@@ -1,1 +1,1 @@
-print("lambda is sucessfully executed")
+print("lambda is sucessfully executed..")

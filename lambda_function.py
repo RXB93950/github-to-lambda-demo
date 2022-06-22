@@ -1,1 +1,1 @@
-print('lambda is connected !!!')
+print('lambda is connected. !!!')

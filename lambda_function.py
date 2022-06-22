@@ -1,6 +1,12 @@
 # import matplotlib
 
-print('Hello world!')
 
-# def lambda_handler(event, context):
-#     
+
+
+def pypart(n):
+	for i in range(0, n):
+		for j in range(0, i+1):
+			print("* ",end="")
+		print("\r")
+
+pypart(5)

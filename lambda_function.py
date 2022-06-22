@@ -1,12 +1,4 @@
+print("the code is pushing to repo")
+print("....\n....\n....\n....\n....\n....\n")
 
-def triangle(n):
-	k = n - 1
-	for i in range(0, n):
-		for j in range(0, k):
-			print(end=" ")
-		k = k - 1
-		for j in range(0, i+1):
-			print("* ", end="")
-		print("\r")
-
-triangle(5)
+print("code is pushed to repo sucessfully")
